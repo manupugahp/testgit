@@ -2,6 +2,8 @@
 
 	Action()
 {
-	return 0;
+		lr_think_time(4);
+		
+		return 0;
 }
  
