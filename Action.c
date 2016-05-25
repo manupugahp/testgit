@@ -1,9 +1,9 @@
 
 
 	Action()
-{
-		lr_think_time(4);
 		
-		return 0;
+		lr_think_time(5);
+{
+	return 0;
 }
  
